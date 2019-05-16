@@ -1,0 +1,100 @@
+h1{
+    font-family: Spirax;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+#title {
+    font-size: 3.2rem;
+    line-height: 110%;
+    margin: 2.8rem 0 1.68rem 0;
+    margin-left: -180%;
+    margin-top: 1%;
+    color: white;
+}
+
+p{
+    font-family: monospace;
+    text-align: center;
+}
+
+/* #url {
+    text-align: center;
+} */
+
+.small-image{
+    width: 55px;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+ /* border radius for circle image  */
+.thick-image-border{
+    border: solid 1px #ee6e73;
+    border-radius: 2px;
+    border-radius: 70%;
+}
+/* .silver-background{
+    background-color: #546e7a;
+    text-align: justify;
+} */
+/* #cat-photo-from{
+    background-color: #546e7a;
+    text-align: justify;
+} */
+.material-icons{
+    color: white;
+}
+#url{
+    margin-top: 2%;
+}
+.row1{
+    border: 2px solid black;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+.row2{
+    border: 2px solid black;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+.row3{
+    border: 2px solid black;
+    background-color: #e0e0e0 ;
+    margin-top: 10px;
+}
+.row4{
+    border: 2px solid black;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+#both{
+    margin-left: -26px;
+}
+#indoor{
+    margin-left: 7px;
+}
+#energetic{
+    margin-left: 47px;
+}
+#loving{
+    margin-left: 19px;
+}
+
+.text1{
+    margin-left: 14px;
+    font-size: 1.7em;
+}
+.text2{
+    margin-left: 14px;
+    font-size: 1.7em;
+}
+#p1{
+font-size: 1.5em;
+}
+#p2{
+    font-size: 1.5em;
+}
+@media screen and (max-width: 601px) {
+  .text1,h4,.text2,.text3,.text4,#p1,#p2{
+    font-size: 18px !important;
+  }
+}
