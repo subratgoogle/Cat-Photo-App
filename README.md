@@ -6,4 +6,4 @@
 
 <hr>
 
-### [Click Here TO See This]( https://subratgoogle.github.io/catphotoapp/.)
+### [Click Here To See This]( https://subratgoogle.github.io/catphotoapp/.)
